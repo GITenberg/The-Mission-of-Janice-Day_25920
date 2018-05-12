@@ -1,0 +1,31 @@
+_repo: The-Mission-of-Janice-Day_25920
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Turner, Corinne
+    gutenberg_agent_id: '25153'
+    url: http://www.gutenberg.org/2009/agents/25153
+covers:
+- cover_type: archival
+  image_path: 25920-h/images/fcover-thumb.jpg
+creator:
+  author:
+    agent_name: Long, Helen Beecher
+    gutenberg_agent_id: '931'
+    url: http://www.gutenberg.org/2009/agents/931
+description: ''
+gutenberg_issued: '2008-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25920'
+  lccn: '17010670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Mexico -- Juvenile fiction'
+title: The Mission of Janice Day
+url: http://www.gutenberg.org/ebooks/25920
